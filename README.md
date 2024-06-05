@@ -1,2 +1,2 @@
 # DabCommunity
-Demo app built for Azure Cosmos DB conf 2024
+Demo app built for Community standup DAB
